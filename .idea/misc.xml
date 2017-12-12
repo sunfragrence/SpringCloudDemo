@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/../springcloud/service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/service-provider3/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/service-turbine/pom.xml" />
       </list>
     </option>
   </component>
