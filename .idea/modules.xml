@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/config-server/config-server.iml" filepath="$PROJECT_DIR$/../springcloud/config-server/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-consumer-feign/service-consumer-feign.iml" filepath="$PROJECT_DIR$/../springcloud/service-consumer-feign/service-consumer-feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-consumer-ribbon/service-consumer-ribbon.iml" filepath="$PROJECT_DIR$/../springcloud/service-consumer-ribbon/service-consumer-ribbon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-eureka/service-eureka.iml" filepath="$PROJECT_DIR$/../springcloud/service-eureka/service-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-provider1/service-provider1.iml" filepath="$PROJECT_DIR$/../springcloud/service-provider1/service-provider1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-provider2/service-provider2.iml" filepath="$PROJECT_DIR$/../springcloud/service-provider2/service-provider2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-provider3/service-provider3.iml" filepath="$PROJECT_DIR$/../springcloud/service-provider3/service-provider3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-turbine/service-turbine.iml" filepath="$PROJECT_DIR$/../springcloud/service-turbine/service-turbine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/../springcloud/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/config-client/config-client.iml" filepath="$PROJECT_DIR$/../springcloud/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" filepath="$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer-ribbon/service-consumer-ribbon.iml" filepath="$PROJECT_DIR$/service-consumer-ribbon/service-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-eureka/service-eureka.iml" filepath="$PROJECT_DIR$/service-eureka/service-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider1/service-provider1.iml" filepath="$PROJECT_DIR$/service-provider1/service-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider2/service-provider2.iml" filepath="$PROJECT_DIR$/service-provider2/service-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider3/service-provider3.iml" filepath="$PROJECT_DIR$/service-provider3/service-provider3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-turbine/service-turbine.iml" filepath="$PROJECT_DIR$/service-turbine/service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
     </modules>
   </component>

@@ -3,16 +3,17 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../springcloud/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-provider1/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-provider2/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-consumer-ribbon/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-consumer-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-provider3/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/config-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/service-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/service-provider1/pom.xml" />
+        <option value="$PROJECT_DIR$/service-provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/service-consumer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/service-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/service-provider3/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/config-client/pom.xml" />
       </list>
     </option>
   </component>
