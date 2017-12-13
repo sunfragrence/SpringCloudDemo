@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="server-zipkin" />
         <module name="service-consumer-feign" />
         <module name="service-consumer-ribbon" />
         <module name="service-eureka" />
@@ -22,6 +23,7 @@
     <bytecodeTargetLevel>
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="server-zipkin" target="1.8" />
       <module name="service-consumer-feign" target="1.8" />
       <module name="service-consumer-ribbon" target="1.8" />
       <module name="service-eureka" target="1.8" />

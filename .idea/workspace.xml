@@ -6,14 +6,48 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9dcc527-acf3-454b-ac0e-012625322adb" name="Default" comment="分布式配置中心集群config-server,config-client">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/config-client/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/config-client/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/config-client/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/config-client/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/config-client/src/main/java/com/jimi/configclient/ConfigClientApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/config-client/src/main/resources/application.properties" />
+    <list default="true" id="a9dcc527-acf3-454b-ac0e-012625322adb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/artifacts/service_eureka_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_java_zipkin_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_java_zipkin_autoconfigure_ui_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_java_zipkin_server_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_java_zipkin_ui_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka11_2_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_1_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_1_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_1_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_1_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/src/main/java/com/jimi/serverzipkin/ServerZipkinApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/src/main/resources/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/server-zipkin/src/test/java/com/jimi/serverzipkin/ServerZipkinApplicationTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/service-eureka/src/main/java/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/service-turbine/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/service-turbine/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/service-turbine/src/test/java/com/jimi/serviceturbine/ServiceTurbineApplicationTests.java" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/misc.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/modules.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider1/pom.xml" afterPath="$PROJECT_DIR$/../springcloud/service-provider1/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/ServiceProvider1Application.java" afterPath="$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/ServiceProvider1Application.java" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/controller/ServiceProvider.java" afterPath="$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/controller/ServiceProvider.java" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider1/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../springcloud/service-provider1/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider3/pom.xml" afterPath="$PROJECT_DIR$/../springcloud/service-provider3/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/ServiceProvider3Application.java" afterPath="$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/ServiceProvider3Application.java" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/controller/ServiceProvider.java" afterPath="$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/controller/ServiceProvider.java" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/service-provider3/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../springcloud/service-provider3/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,6 +61,7 @@
     <ignored path="$PROJECT_DIR$/config-server/target/" />
     <ignored path="$PROJECT_DIR$/service-turbine/target/" />
     <ignored path="$PROJECT_DIR$/../springcloud/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/../springcloud/server-zipkin/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,45 +71,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/config-server/src/main/resources/application.properties">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="37" column="44" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="44" />
+            <state relative-caret-position="162">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/resources/bootstrap.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigClientApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/java/com/jimi/configclient/ConfigClientApplication.java">
+        <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-              </folding>
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,6 +115,8 @@
       <find>starter-config</find>
       <find>tomcat</find>
       <find>spring-boot-starter-web</find>
+      <find>spring-cloud-sleuth-zipkin</find>
+      <find>spring-cloud-starter-zipkin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,11 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/service-provider1/src/main/java/com/jimi/serviceprovider1/ServiceProvider1Application.java" />
-        <option value="$PROJECT_DIR$/service-provider2/src/main/java/com/jimi/serviceprovider2/ServiceProvider2Application.java" />
-        <option value="$PROJECT_DIR$/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/service/consmerService.java" />
-        <option value="$PROJECT_DIR$/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/service/consumerService.java" />
-        <option value="$PROJECT_DIR$/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/ServiceConsumerRibbonApplication.java" />
         <option value="$PROJECT_DIR$/service-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/service-consumer-feign/src/main/java/com/jimi/serviceconsumerfeign/hystrix/ConsumerServiceHystrix.java" />
         <option value="$PROJECT_DIR$/service-consumer-feign/src/main/java/com/jimi/serviceconsumerfeign/ServiceConsumerFeignApplication.java" />
@@ -155,13 +164,23 @@
         <option value="$PROJECT_DIR$/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/controller/ConsumerController.java" />
         <option value="$PROJECT_DIR$/service-turbine/src/main/java/com/jimi/serviceturbine/ServiceTurbineApplication.java" />
         <option value="$PROJECT_DIR$/service-turbine/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../springcloud/service-provider3/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../springcloud/config-client/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/../springcloud/config-client/src/main/java/com/jimi/configclient/ConfigClientApplication.java" />
         <option value="$PROJECT_DIR$/../springcloud/config-client/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/config-client/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../springcloud/config-client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/../springcloud/server-zipkin/src/main/java/com/jimi/serverzipkin/ServerZipkinApplication.java" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider1/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider3/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/ServiceProvider1Application.java" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/ServiceProvider3Application.java" />
+        <option value="$PROJECT_DIR$/../springcloud/server-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/controller/ServiceProvider.java" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/controller/ServiceProvider.java" />
+        <option value="$PROJECT_DIR$/../springcloud/server-zipkin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider3/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../springcloud/service-provider1/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -256,13 +275,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigClientApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceProvider3Application">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="ServerZipkinApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jimi.serverzipkin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.jimi.serverzipkin.ServerZipkinApplication" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="server-zipkin" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -399,17 +437,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="10">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.ServiceEurekaApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ServiceProvider1Application" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServiceProvider2Application" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServiceConsumerRibbonApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.ServiceConsumerFeignApplication" />
-      <item index="5" class="java.lang.String" itemvalue="Spring Boot.ServiceZuulApplication" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ServiceProvider3Application" />
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Application.ServerZipkinApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ServiceEurekaApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServiceProvider1Application" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServiceProvider2Application" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.ServiceProvider3Application" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.ServiceConsumerRibbonApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ServiceConsumerFeignApplication" />
       <item index="7" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication" />
-      <item index="8" class="java.lang.String" itemvalue="Spring Boot.ServiceTurbineApplication" />
-      <item index="9" class="java.lang.String" itemvalue="Spring Boot.ConfigClientApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.ConfigClientApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.ServiceZuulApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.ServiceTurbineApplication" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -426,7 +465,7 @@
       <option name="presentableId" value="Default" />
       <updated>1512808041560</updated>
       <workItem from="1512808043127" duration="53560000" />
-      <workItem from="1513131333049" duration="10133000" />
+      <workItem from="1513131333049" duration="18294000" />
     </task>
     <task id="LOCAL-00001" summary="新增聚合监控service-turbine、注册中心集群service-zuul">
       <created>1513074857386</created>
@@ -449,11 +488,25 @@
       <option name="project" value="LOCAL" />
       <updated>1513147651022</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="分布式配置中心集群config-server,config-client">
+      <created>1513147769813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513147769813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="分布式配置中心集群config-server,config-client">
+      <created>1513147838143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1513147838143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63693000" />
+    <option name="totallyTimeSpent" value="71854000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -476,28 +529,28 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5228261" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3869565" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,54 +565,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="分布式配置中心集群config-server,config-client" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../springcloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-feign/src/main/java/com/jimi/serviceconsumerfeign/ServiceConsumerFeignApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/controller/ServiceProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider2/src/main/java/com/jimi/serviceprovider2/controller/ServiceProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/controller/ServiceProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-feign/src/main/java/com/jimi/serviceconsumerfeign/hystrix/ConsumerServiceHystrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-feign/src/main/java/com/jimi/serviceconsumerfeign/service/ConsumerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -743,21 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/ServiceProvider1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/service-eureka/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -765,40 +761,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/ServiceProvider3Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/service-eureka/src/main/java/com/jimi/serviceeureka/ServiceEurekaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/ServiceConsumerRibbonApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -815,14 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -859,29 +817,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="37" column="44" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/java/com/jimi/configclient/ConfigClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="false" />
+            <element signature="e#770#771#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -896,8 +838,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/config-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/server-zipkin/src/main/java/com/jimi/serverzipkin/ServerZipkinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-consumer-ribbon/src/main/java/com/jimi/serviceconsumerribbon/ServiceConsumerRibbonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/ServiceProvider3Application.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/server-zipkin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/ServiceProvider1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/java/com/jimi/serviceprovider3/controller/ServiceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/java/com/jimi/serviceprovider1/controller/ServiceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#582#598#1" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/server-zipkin/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider3/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/service-provider1/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>

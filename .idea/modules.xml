@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../springcloud/config-client/config-client.iml" filepath="$PROJECT_DIR$/../springcloud/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/../springcloud/server-zipkin/server-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" filepath="$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-consumer-ribbon/service-consumer-ribbon.iml" filepath="$PROJECT_DIR$/service-consumer-ribbon/service-consumer-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-eureka/service-eureka.iml" filepath="$PROJECT_DIR$/service-eureka/service-eureka.iml" />
